@@ -144,5 +144,17 @@ public class TaobaoJsonDataDto implements Serializable {
 }
 
 
+四种策略：
+
+CamelCase策略，Java对象属性：personId，序列化后属性：persionId
+
+PascalCase策略，Java对象属性：personId，序列化后属性：PersonId
+
+SnakeCase策略，Java对象属性：personId，序列化后属性：person_id
+
+KebabCase策略，Java对象属性：personId，序列化后属性：person-id
+
+
+
 ```
 
