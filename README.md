@@ -23,3 +23,6 @@
 * 算法
   * [典型算法](https://github.com/yangshuting1/wiki/blob/master/%E7%AE%97%E6%B3%95/%E5%85%B8%E5%9E%8B%E7%AE%97%E6%B3%95.md)
   * [算法题](https://github.com/yangshuting1/wiki/blob/master/%E7%AE%97%E6%B3%95/%E7%AE%97%E6%B3%95%E9%A2%98.md)
+* Gradle
+s
+  
